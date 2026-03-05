@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: NeuroCore / 04920∩ Framework
+message: If you use this framework, please cite it.
+authors:
+  - family-names: Nicoletti
+    given-names: Davide Luca
+date-released: 2026-02-26
+version: 0.1
