@@ -1,12 +1,51 @@
-NeuroCore™ / 049200
+NeuroCore™ / 049200 Framework
+Proprietary Research Disclosure License
+
 Copyright (c) 2026 Davide Luca Nicoletti
 
 All rights reserved.
 
-Permission is granted to view and cite the theoretical framework contained in this repository for academic and research purposes only.
+Permission is granted to view, download, and reference the materials
+contained in this repository for personal, educational, and academic
+discussion purposes.
 
-Commercial use, reproduction, modification, redistribution, reverse engineering, or implementation of the NeuroCore™ framework without explicit written permission from the author is strictly prohibited.
+The materials contained in this repository describe conceptual and
+theoretical aspects of the NeuroCore™ / 049200 framework.
 
-The operational algorithms, datasets, computational pipelines, and parameter configurations are proprietary and are not included in this repository.
+Critical implementation components are intentionally not disclosed,
+including but not limited to:
 
-This repository serves solely as a scientific disclosure layer establishing authorship and conceptual priority.
+• operational algorithms
+• normalization constants
+• dataset architecture
+• computational pipelines
+• optimization procedures
+
+These elements constitute the proprietary core of the NeuroCore™ framework
+and remain part of a private research environment.
+
+Restrictions
+
+Without explicit written permission from the author, you may not:
+
+• reproduce the framework for commercial purposes
+• implement or distribute derivative operational systems based on the
+  described methodology
+• reverse engineer undisclosed components of the framework
+• redistribute modified versions of the conceptual architecture
+
+Academic Use
+
+Researchers are permitted to reference and cite the conceptual framework
+for academic discussion, provided appropriate attribution is given to the
+author.
+
+No Warranty
+
+The materials are provided "as is", without warranty of any kind.
+
+Contact
+
+For academic collaboration or licensing inquiries:
+
+Davide Luca Nicoletti
