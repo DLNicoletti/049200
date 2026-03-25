@@ -1,13 +1,9 @@
 ![License](https://img.shields.io/badge/license-Proprietary-red)
 
-## NeuroCore™ — Core Layer of the 049200™ Ecosystem
-
-**Author**
-Davide Luca Nicoletti
-
----
-
 ## Emergent Neurodynamical Regime Architecture
+
+![Neuro Modeling](Logos/IMG_9651.jpeg)
+
 
 NeuroCore™ introduces a multilayer dynamical framework for identifying functional regimes in high-entropy neurobiological signals (EEG / fNIRS).
 
